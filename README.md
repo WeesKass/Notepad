@@ -2,6 +2,10 @@
 
 Notepad is a simple text editor with some basic features.
 
+## Author
+
+   * Timur Kasenov COM-18
+
 ## Run
 
 1. Clone repository.
